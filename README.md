@@ -1,21 +1,63 @@
-# 💫 About Me:
-👨‍💻 Desarrollador Full Stack JS | 🇨🇴 Colombiano<br><br>💼 ¡Dando mis primeros pasos en el mundo del desarrollo! Apasionado por el desarrollo Full Stack con Node.js, Angular y Express.<br><br>🚀 En constante aprendizaje y buscando oportunidades para crecer profesionalmente en la industria tecnológica.<br><br>¡Bienvenido a mi perfil! ¡Programando soluciones!<br><br>Canal de YouTube: https://www.youtube.com/@AleCodeLab
+# 💻 Sobre Mí
 
+¡Hola! Soy **Alejandro Zuleta**, un **Desarrollador Full Stack JS** apasionado por crear soluciones escalables y eficientes. Mi enfoque principal está en el desarrollo con **Node.js**, **Angular**, **React** y **Express**, pero siempre estoy aprendiendo nuevas tecnologías y herramientas que me permiten ofrecer lo mejor en cada proyecto. 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/601147714612363343) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jhoan-alejandro-valencia-zuleta-65b49b2b9/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AleCodeLab) 
+Estoy constantemente buscando oportunidades para expandir mis conocimientos, colaborar con equipos de desarrollo, y afrontar desafíos técnicos que me ayuden a crecer como profesional y llegar a ser un **Tech Lead** en el futuro.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aalejandrozuleta&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aalejandrozuleta&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalejandrozuleta&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 🛠️ **Tecnologías que Manejo**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### **Frontend**
+- **Angular**, **React**, **Next.js**
+- **Tailwind CSS**, **Bootstrap**, **SASS**
+- **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
+
+### **Backend**
+- **Node.js**, **Express.js**, **NestJS**
+- **JWT** (JSON Web Tokens)
+  
+### **Bases de Datos**
+- **MongoDB**, **MySQL**, **PostgreSQL**
+- **Microsoft SQL Server**
+
+### **DevOps & Deploy**
+- **Docker**, **AWS**, **Heroku**, **Netlify**, **Vercel**
+
+### **Testing & Herramientas**
+- **Jest**, **Vitest**
+- **Git**, **GitHub**, **GitLab**
+- **Jira**, **Notion**, **Canva**, **Figma**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aalejandrozuleta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 **Mi Enfoque Profesional**
+
+Mi pasión por la tecnología me ha llevado a desarrollar proyectos que cubren desde aplicaciones web de alto rendimiento hasta sistemas backend robustos. Me gusta trabajar en entornos colaborativos, siempre aprendiendo de mis compañeros y buscando optimizar cada aspecto del proceso de desarrollo, desde el código hasta la experiencia del usuario final.
+
+Además de mis conocimientos técnicos, me esfuerzo por mejorar mis habilidades de liderazgo, con el objetivo de guiar equipos en la creación de soluciones tecnológicas innovadoras y escalables.
+---
+
+## 💼 **Proyectos Destacados**
+
+### [**Arlok-frontend**](https://github.com/aalejandrozuleta/arlok-frontend.git)  
+### [**Arlok-Backend**](https://github.com/aalejandrozuleta/arlok-backend.git)  
+---
+
+## ✍️ **Mi Filosofía de Desarrollo**
+Creo que la mejor manera de crecer como desarrollador es ser constante y aprender de cada experiencia. Me esfuerzo por escribir código limpio, eficiente y fácil de mantener. Además, siempre busco soluciones que puedan escalar a medida que los proyectos crecen.
+
+Mi objetivo es contribuir a la comunidad tecnológica mediante mis proyectos, compartiendo mis conocimientos y aprendiendo de las mejores prácticas. Estoy emocionado por los proyectos futuros y las oportunidades que me permitan seguir evolucionando en el mundo del desarrollo.
+
+---
+**¡Gracias por visitar mi perfil!**  
+Siempre estoy abierto a nuevos retos y oportunidades. Si estás interesado en colaborar o aprender más sobre mis proyectos, no dudes en contactarme.
+
+---
+## 📈 **Estadísticas de GitHub**
+
+[![Alejandro Zuleta GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalejandrozuleta&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/aalejandrozuleta)
+
+[![Alejandro Zuleta GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aalejandrozuleta&theme=tokyonight&hide_border=true)](https://github.com/aalejandrozuleta)
+
+[![Alejandro Zuleta Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalejandrozuleta&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/aalejandrozuleta)
+
+---
