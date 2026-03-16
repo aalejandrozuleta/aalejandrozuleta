@@ -23,9 +23,49 @@ Mi enfoque está en desarrollar software **mantenible, seguro y preparado para e
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## DevOps
+---
+
+# 🧪 Testing & Quality
+
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/sonarcloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+---
+
+# 📚 Documentation
+
+![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+# ⚙️ DevOps & CI/CD
+
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab_ci-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+# 🏗️ Engineering Practices
+
+![Clean Architecture](https://img.shields.io/badge/architecture-clean_architecture-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/api-rest-green?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/practice-ci_cd-purple?style=for-the-badge)
+![Testing](https://img.shields.io/badge/practice-testing-yellow?style=for-the-badge)
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 Authentication Service
+Sistema de autenticación con **JWT, refresh tokens y control de roles**.
 
 ---
 
@@ -65,12 +105,6 @@ Stack
 React • Next.js • Node.js • PostgreSQL
 
 ---
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alejo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejo&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejo&theme=tokyonight&hide_border=true)
 
