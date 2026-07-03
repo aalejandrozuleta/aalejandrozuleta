@@ -1,128 +1,121 @@
-# 👨‍💻 Jhoan Alejandro Valencia Zuleta
-**Full-Stack Developer | Backend Focus | TypeScript | Node.js**
+<div align="center">
 
-Desarrollador **Full-Stack con especialización en backend**, enfocado en construir **APIs escalables y aplicaciones web modernas** utilizando **TypeScript, Node.js, NestJS, Angular, React y Next.js**.
+# 👋 Jhoan Alejandro Valencia Zuleta
 
-Mi enfoque está en desarrollar software **mantenible, seguro y preparado para escalar**, aplicando buenas prácticas de arquitectura, testing y despliegue con contenedores.
+### Backend Engineer | TypeScript · Node.js · NestJS | Microservices & Distributed Systems
+
+Construyo **APIs escalables y arquitecturas de microservicios** listas para producción, con foco en **Clean/Hexagonal Architecture, DDD, observabilidad y seguridad**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aalejandrozuleta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valenciazuletaj@gmail.com)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge)
+
+</div>
 
 ---
 
-# 🧰 Tech Stack
+## 🧭 Sobre mí
 
-## Backend
+Desarrollador **Full-Stack con especialización en backend**, enfocado en construir **APIs escalables y sistemas distribuidos** con **TypeScript, Node.js, NestJS, Angular, React y Next.js**.
+
+Trabajo aplicando **Clean Architecture / Hexagonal / DDD**, testing automatizado y despliegue con contenedores, priorizando software **mantenible, seguro y preparado para escalar**.
+
+---
+
+## 🚀 Proyecto destacado
+
+### 🏢 [saas-platform-backend](https://github.com/aalejandrozuleta/saas-platform-backend)
+
+Plataforma SaaS basada en **microservicios**, organizada como **monorepo (PNPM)**, con observabilidad completa y pipelines CI/CD end-to-end.
+
+**Arquitectura:**
+- 🌐 **NGINX** como reverse proxy / punto único de entrada
+- 🚪 **API Gateway** — routing, rate limiting, circuit breaker, health checks
+- 🔐 **Auth Service** — arquitectura hexagonal + DDD, cache, métricas
+- ⚙️ **Config Service** — feature flags, multi-tenant, políticas de contraseña, rate limits por tenant
+- 🔔 **Notification Service** — emails vía colas (BullMQ + Resend), notificaciones en tiempo real (WebSocket/Socket.io)
+
+**Observabilidad y calidad:**
+- 📊 Prometheus + Grafana (métricas y dashboards)
+- 📜 Loki + Promtail (centralización de logs)
+- ✅ CI (lint, test, build) + CodeQL (seguridad) + SonarCloud (calidad)
+- 🪝 Husky (pre-commit / pre-push / commit-msg)
+
+**Stack:** TypeScript · NestJS · PostgreSQL · Prisma · Redis · Docker · PNPM
+
+🔗 [Ver detalle de arquitectura](https://github.com/aalejandrozuleta/saas-platform-backend/blob/main/README-SaaS-Platform.md) · [API Gateway](https://github.com/aalejandrozuleta/saas-platform-backend/blob/main/services/api-gateway/README.md) · [Auth Service](https://github.com/aalejandrozuleta/saas-platform-backend/blob/main/services/auth-service/README.md)
+
+---
+
+## 🧰 Tech Stack
+
+**Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## Frontend
+**Frontend**
 ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-## Databases
+**Databases & Cache**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
----
-
-# 🧪 Testing & Quality
-
+**Testing & Calidad**
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/sonarcloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
----
-
-# 📚 Documentation
-
-![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-# ⚙️ DevOps & CI/CD
-
+**DevOps & Observabilidad**
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab_ci-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-# 🏗️ Engineering Practices
+## 🏗️ Engineering Focus
 
-![Clean Architecture](https://img.shields.io/badge/architecture-clean_architecture-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/api-rest-green?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/practice-ci_cd-purple?style=for-the-badge)
-![Testing](https://img.shields.io/badge/practice-testing-yellow?style=for-the-badge)
-
----
-
-# 🚀 Featured Projects
-
-## 🔐 Authentication Service
-Sistema de autenticación con **JWT, refresh tokens y control de roles**.
+- Diseño de **APIs REST y arquitecturas de microservicios escalables**
+- **Clean / Hexagonal Architecture** y **Domain-Driven Design**
+- **Observabilidad**: métricas, logs centralizados y dashboards
+- **Seguridad**: autenticación JWT/refresh tokens, rate limiting, escaneo de vulnerabilidades (CodeQL)
+- **CI/CD** end-to-end con quality gates (SonarCloud) y git hooks (Husky)
+- Optimización de consultas y modelado de datos en PostgreSQL
 
 ---
 
-# 🏗️ Engineering Focus
+## 📊 GitHub Stats
 
-- Diseño de **APIs REST escalables**
-- **Clean Architecture**
-- **Testing automatizado**
-- **Seguridad en autenticación (JWT / Refresh Tokens)**
-- Optimización de consultas en bases de datos
-- Contenerización con Docker
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalejandrozuleta&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalejandrozuleta&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aalejandrozuleta&theme=tokyonight&hide_border=true)
 
-# 🚀 Featured Projects
-
-## 🔐 Authentication Service
-Sistema de autenticación con **JWT, refresh tokens y control de roles**.
-
-Stack  
-NestJS • PostgreSQL • Redis • Docker • Jest
+</div>
 
 ---
 
-## 🏢 SaaS Multi-Tenant API
-Backend preparado para aplicaciones SaaS con separación por tenant.
+## 🎯 Career Goal
 
-Stack  
-Node.js • NestJS • PostgreSQL • Docker • Mongo • Redis
+Seguir profundizando como **Backend Engineer**, participando en el diseño de **arquitecturas de microservicios y sistemas distribuidos** a escala productiva, con miras a evolucionar hacia roles de **Software Architect / Tech Lead**.
 
 ---
 
-## 🌐 Full Stack Web Platform
-Aplicación web moderna con backend en Node.js y frontend en React.
+## 📫 Contacto
 
-Stack  
-React • Next.js • Node.js • PostgreSQL
+- 💼 LinkedIn: [in/aalejandrozuleta](https://linkedin.com/in/aalejandrozuleta)
+- 💻 GitHub: [@aalejandrozuleta](https://github.com/aalejandrozuleta)
+- ✉️ Email: [valenciazuletaj@gmail.com](mailto:valenciazuletaj@gmail.com)
 
----
+<div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejo&theme=tokyonight&hide_border=true)
+⭐ Abierto a oportunidades como Backend Engineer / Software Engineer
 
----
-
-# 🎯 Career Goal
-
-Continuar creciendo como **Backend Engineer**, participando en el diseño de **arquitecturas escalables y sistemas distribuidos**, con el objetivo de evolucionar hacia roles de **Software Architect o Tech Lead**.
-
----
-
-# 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/aalejandrozuleta
-- GitHub: https://github.com/aalejandrozuleta
-- Email: valenciazuletaj@gmail.com
-- Phone: +57 3218957375
-
----
-
-⭐ Siempre abierto a colaborar en proyectos interesantes y oportunidades profesionales.
+</div>
