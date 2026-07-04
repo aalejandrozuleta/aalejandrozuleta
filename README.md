@@ -94,8 +94,6 @@ Plataforma SaaS basada en **microservicios**, organizada como **monorepo (PNPM)*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalejandrozuleta&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalejandrozuleta&layout=compact&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aalejandrozuleta&theme=tokyonight&hide_border=true)
 
 </div>
